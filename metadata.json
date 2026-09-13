@@ -1,0 +1,6 @@
+{
+  "name": "King Marquee",
+  "description": "King Marquee is a premier luxury wedding and event venue located in Officer's Colony, Faisalabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
